@@ -67,4 +67,9 @@ public class Producto {
                 '}';
 	}
 
+	public static void add(Producto producto) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
